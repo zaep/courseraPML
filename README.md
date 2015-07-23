@@ -1,0 +1,1 @@
+Project writeup is included in the `vignettes` directory.

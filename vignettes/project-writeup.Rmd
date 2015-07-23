@@ -1,0 +1,20 @@
+---
+title: "Coursera: Practical Machine Learning Course Project Writeup"
+author: "Vignette Author"
+date: "`r Sys.Date()`"
+output: 
+  rmarkdown::html_document:
+    toc: true
+vignette: >
+  %\VignetteIndexEntry{project-writeup}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+## Splitting the data
+
+## Data Preprocessing
+
+## Model Fitting
+
+## Model Evaluation
