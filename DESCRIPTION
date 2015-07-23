@@ -1,0 +1,9 @@
+Package: courseraPML
+Type: Package
+Title: Course Project for Coursera class "Practical Machine Learning".
+Version: 0.0.0.9000
+Date: 2015-07-23
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
