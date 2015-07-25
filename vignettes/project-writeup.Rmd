@@ -10,8 +10,25 @@ vignette: >
   %\VignetteEngine{knitr::rmarkdown}
   \usepackage[utf8]{inputenc}
 ---
+```{r knitrSetup}
+knitr:opts_knit$set(root.dir = "..")
+```
+
+```{r loadPkg}
+devtools::load_all()
+```
+
+
+
 
 ## Splitting the data
+
+```{r}
+
+```
+
+
+## Exploratory Data Analysis
 
 ## Data Preprocessing
 
